@@ -44,3 +44,9 @@ end
 +---------+---------+---------+---------+---------+---------+---------+
 |   3.0   | 33.9339 | 25.9555 | 25.9555 | 24.9735 | 25.9555 | 22.1139 |
 +---------+---------+---------+---------+---------+---------+---------+
+
+% compare
+- for higher s, the f(xa) tend to be worst.
+- for SDP, the values are rather close
+- when s = 0.5, all the results are the same, it is likely it is either the global optimum or is close.
+- when s = 3.0, the random one give the optimal one, the other ones are higher than it
